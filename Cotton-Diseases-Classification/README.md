@@ -1,4 +1,4 @@
-<h3> The project is cotton disease classification. Dataset has 4 classes fresh cotton plant, fresh cotton leaf, diseased cotton plant, diseased cotton leaf. We are going to solve this problem using Deep Learning. Deep learning has the architecture like CNN that helps to extract the pattern from the images and helps to classify. </h3>
+<h3> The project is cotton disease classification. Dataset has 4 classes, fresh cotton plant, fresh cotton leaf, diseased cotton plant, diseased cotton leaf. We are going to solve this problem using Deep Learning. Deep learning has the architectures like CNN that helps to extract the pattern from the images and helps to classify. </h3>
 
 <h1><b> Dataset <b></h1>
   Dataset is taken from: https://drive.google.com/drive/folders/1-vkkg9q3dhnX5JrWrCKIPZW8rvZvXL6i
