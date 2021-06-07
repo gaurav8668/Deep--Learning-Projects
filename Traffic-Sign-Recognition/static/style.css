@@ -1,0 +1,50 @@
+.container1{
+    background-color: #eee;
+	min-height: 60vh;
+	padding: 7% 10%;
+    /* background-color: white; */
+    font-family: "Time New Roman";
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#home {
+	background-color: #eee;
+	min-height: 60vh;
+	padding: 7% 10%;
+    /* background-color:rgb(135,206,250) */
+    background-color: white;
+    font-family: "Time New Roman";
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+/* .navbar navbar-expand-lg navbar-black bg-black{
+    background-color: white;
+} */
+
+.navbar-brand{
+    font-weight:bold;
+}
+.nav-link.hover{
+    background-color: rgb(135,206,250);
+}
+.nav-link{
+    font-weight:bold;
+    font-size:20px;
+}
+body{
+    background-image: url('https://miro.medium.com/max/1920/1*NcqhsFhED_W9OnyI0ZO3jA.jpeg');
+    /* background-color:rgb(135,206,250) */
+}
+
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
