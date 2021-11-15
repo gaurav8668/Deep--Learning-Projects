@@ -9,9 +9,9 @@
     <img src="https://github.com/gaurav8668/Deep--Learning-Projects/blob/main/Cotton-Diseases-Classification/fresh_cotton_plant.jpg">
     <li> Fresh Cotton Leaf </li>
     <img src="https://github.com/gaurav8668/Deep--Learning-Projects/blob/main/Cotton-Diseases-Classification/fresh_cotton_leaf.jpg">
-    <li> Diseasedd Cotton Plant </li>
+    <li> Diseased Cotton Plant </li>
     <img src="https://github.com/gaurav8668/Deep--Learning-Projects/blob/main/Cotton-Diseases-Classification/diseased_cotton_plant.jpg">
-    <li> Diseasedd Cotton Leaf </li>
+    <li> Diseased Cotton Leaf </li>
     <img src="https://github.com/gaurav8668/Deep--Learning-Projects/blob/main/Cotton-Diseases-Classification/diseased_cotton_leaf.jpg">
   </ul>
  
